@@ -1,26 +1,24 @@
 import pandas as pd
+import random
 from datetime import datetime
 
 # Load CSV
-df = pd.read_csv("IT-Club-All-Member.csv")
+df = pd.read_csv("All-Member-Filter.csv")
 
 sql_statements = []
 for index, row in df.iterrows():
-    digital_id = f"BITC-{str(index+1).zfill(6)}"
+    digital_id = f"BITC-{random.randint(100000, 999999)}"
     
-    # Format birthdate (nullable)
+    # Birthdate (nullable)
     birthdate = "NULL"
-    if pd.notna(row.get('Date of Birth', None)):
+    if pd.notna(row.get('Birthday', None)) and row['Birthday'] != '':
         try:
-            birthdate = f"'{datetime.strptime(str(row['Date of Birth']), '%m/%d/%Y').strftime('%Y-%m-%d')}'"
+            birthdate = f"'{datetime.strptime(str(row['Birthday']), '%m/%d/%Y').strftime('%Y-%m-%d')}'"
         except:
             birthdate = "NULL"
     
-    # Format timestamp for created_at/updated_at
-    try:
-        timestamp = datetime.strptime(str(row['Timestamp']), '%m/%d/%Y %H:%M:%S').strftime('%Y-%m-%d %H:%M:%S')
-    except:
-        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    # Timestamps (created_at, updated_at)
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
     # joined_at = only date part
     joined_at = timestamp.split(" ")[0]
@@ -48,6 +46,10 @@ for index, row in df.iterrows():
     name = str(row.get('Name', '')).replace("'", "''")
     email = str(row.get('Email', '')).replace("'", "''")
     
+    # Determine PaymentMethod and TransactionId (nullable)
+    payment_method = row.get('PaymentMethod', 'hand_cash') or 'hand_cash'
+    transaction_id = row.get('TransactionId', 'hand_cash') or 'hand_cash'
+    
     # Member SQL
     member_sql = f"""
     INSERT INTO members 
@@ -56,12 +58,12 @@ for index, row in df.iterrows():
     ('{digital_id}', '{email}', '{student_id}', '{name}', '{phone}', {birthdate}, MD5('{digital_id}'), '{department}', '{intake}', {gender}, 'General Member', NULL, NULL, NULL, NULL, NULL, '{joined_at}', NULL, '{timestamp}', '{timestamp}');
     """
     
-    # Payment SQL (always hand_cash)
+    # Payment SQL
     payment_sql = f"""
     INSERT INTO membership_payments 
     (member_id, amount, status, payment_method, transaction_id, created_at, updated_at)
     VALUES 
-    (LAST_INSERT_ID(), 150, 'pending', 'hand_cash', 'hand_cash', '{timestamp}', '{timestamp}');
+    (LAST_INSERT_ID(), 150, 'pending', '{payment_method}', '{transaction_id}', '{timestamp}', '{timestamp}');
     """
     
     sql_statements.append(member_sql.strip() + "\n" + payment_sql.strip())
@@ -70,4 +72,3 @@ with open("all_members_data.sql", "w", encoding="utf-8") as f:
     f.write("\n\n".join(sql_statements))
 
 print("SQL file generated successfully!")
-
