@@ -82,9 +82,9 @@ StudentID,Name,Gender,Email,Mobile,Department,Intake,Birthday,PaymentMethod,Tran
 20234203154,Zawwad Ahmed,,zawwadahmed98@gmail.com,01751039269,CSE,45-DH,,,
 20234203170,Ridoy Majumder,,hridoymoju463@gmail.com,01884225467,CSE,45-DH,,,
 20234203173,Md. Jahad Hossain,,jahidfeni265@gmail.com,01878586361,CSE,45-DH,,,
-20234203165,ABDUL HALIM,Male,ahalim.cse20@gmail.com,01701743760,CSE,45,1/5/2003,hand_cash,043
-20234203151,Adiba Zahin Prattasha ,Female,adibazahin20164@gmail.com,01730978107,CSE,45,9/15/2003,hand_cash,045
-20234203147,MD.Imran Najir,Male,inskus009@gmail.com,01732439742,CSE,45,2/2/2001,hand_cash,Token id- 146
+20234203165,ABDUL HALIM,Male,ahalim.cse20@gmail.com,01701743760,CSE,45-DH,1/5/2003,hand_cash,043
+20234203151,Adiba Zahin Prattasha ,Female,adibazahin20164@gmail.com,01730978107,CSE,45-DH,9/15/2003,hand_cash,045
+20234203147,MD.Imran Najir,Male,inskus009@gmail.com,01732439742,CSE,45-DH,2/2/2001,hand_cash,Token id- 146
 20211103014,Md. Azizur Rahman,,mitonrahman14@gmail.com,01892986658,CSE,46,,,
 20245106001,Md. Sanbim Hossain Shimanto,,san10bim@gmail.com,01780234156,Economics,46,,,
 20245106030,Al Fahad Rafi,,alfahadrafi888@gmail.com,01317961979,Economics,46,,,
@@ -114,21 +114,21 @@ StudentID,Name,Gender,Email,Mobile,Department,Intake,Birthday,PaymentMethod,Tran
 20244203084,Sumaiya Islam,,sumaiyaislam@gmail.com,01825818572,CSE,47-DH,,,
 20244203097,Sazid Hasan,,sazid3993@gmail.com,01313884913,CSE,47-DH,,,
 20244203131,Md. Faiz Ahmed,,fzahmed71@gmail.com,01620334004,CSE,47-DH,,,
-20244203141,Md Zehad Ali,Male,sehabkhanzehad@gmail.com,01744646344,CSE,47,12/11/2003,hand_cash,028
-20244203094,MD. MEHIN ISLAM,Male,mdmehinislam@gmail.com,01568291156,CSE,47,12/19/2000,hand_cash,029
+20244203141,Md Zehad Ali,Male,sehabkhanzehad@gmail.com,01744646344,CSE,47-DH,12/11/2003,hand_cash,028
+20244203094,MD. MEHIN ISLAM,Male,mdmehinislam@gmail.com,01568291156,CSE,47-DH,12/19/2000,hand_cash,029
 20255203093,Md Jaki Shahariar,,jakishahariar@gmail.com,01537196759,CSE,48-DH,,,
 20255203099,Maisha Zaman Thithy,,maishatithy2323@gmail.com,01521260134,CSE,48-DH,,,
 20255203103,Md. Moshreful Islam,,moshreful828@gmail.com,01888418308,CSE,48-DH,,,
 20255203110,Tayeba Tahsin,,tayebatahsin34@gmail.com,01602635033,CSE,48-DH,,,
 20255203114,Md. Rasel Kobir,,raselkobirbd77@gmail.com,01625755712,CSE,48-DH,,,
 20255203047,Md. Maruf Hossain ,Male,mhbijoy013@gmail.com,01713847702,CSE,48-DH,11/16/2002,hand_cash,025
-20255203043,Md Sabbir Hossain,Male,hossainsabbir309@gmail.com,01981441578,CSE,48,4/29/2000,hand_cash,036
-20255203042,Md. Rakib,Male,rakibfuadd@gmail.com,01865479050,CSE,48,4/4/2004,hand_cash,031
-20255203044,Noor Mohammad Redoy,Male,md.hridoyn9856@gmail.com,01642424489,CSE,48,4/25/2001,hand_cash,035
-20255203068,MD. Anisur Rahman,Male,anisurrahmananick@gmail.com,01797058880,CSE,48,12/4/2000,hand_cash,048
-20255203013,Sadman Samad ,Male,sadmansamadlian@gmail.com,+8801793475259,CSE,48,7/27/2025,hand_cash,017
-20255203010,Md Shadikul Islam Shafi,Male,mdshadikulislamshafi@gmail.com,01310612092,CSE,48,1/15/2003,hand_cash,018
-20255203029,Md.Mehedi Hasan Murad ,Male,mhmehedihasan59@gmail.com,01727967659,CSE,48,11/25/2002,hand_cash,Offline 
+20255203043,Md Sabbir Hossain,Male,hossainsabbir309@gmail.com,01981441578,CSE,48-DH,4/29/2000,hand_cash,036
+20255203042,Md. Rakib,Male,rakibfuadd@gmail.com,01865479050,CSE,48-DH,4/4/2004,hand_cash,031
+20255203044,Noor Mohammad Redoy,Male,md.hridoyn9856@gmail.com,01642424489,CSE,48-DH,4/25/2001,hand_cash,035
+20255203068,MD. Anisur Rahman,Male,anisurrahmananick@gmail.com,01797058880,CSE,48-DH,12/4/2000,hand_cash,048
+20255203013,Sadman Samad ,Male,sadmansamadlian@gmail.com,+8801793475259,CSE,48-DH,7/27/2025,hand_cash,017
+20255203010,Md Shadikul Islam Shafi,Male,mdshadikulislamshafi@gmail.com,01310612092,CSE,48-DH,1/15/2003,hand_cash,018
+20255203029,Md.Mehedi Hasan Murad ,Male,mhmehedihasan59@gmail.com,01727967659,CSE,48-DH,11/25/2002,hand_cash,Offline 
 21224103001,Jeneya Akter,,jeneyaakter30@gmail.com,01639882075,CSE,48,,,
 21224103015,Raju Ahmad,,razuahmed1066@gmail.com,01620844225,CSE,48,,,
 21224103019,Md Fardin Ahsan,,ahsanfardin426@gmail.com,01982482426,CSE,48,,,
@@ -324,30 +324,30 @@ StudentID,Name,Gender,Email,Mobile,Department,Intake,Birthday,PaymentMethod,Tran
 21225103522,Faria Alam Moumi,,fariaalammoumi00@gmail.com,01820701290,CSE,49,,,
 21225103528,Md. Sanowar Hossain,,sanowarhossain6697@gmail.com,01753139045,CSE,49,,,
 21225103543,Md. Majharul Kamal,,majharulfaheem@gmail.com,01786000970,CSE,49,,,
-20254203061,Tanvir Hossain,Male,imtanvir70@gamil.com,01601973671,CSE,49,4/13/2001,hand_cash,014
-20254203054,Mijanur Rhaman Sinha,Male,mijanurrahman7409@gmail.com,01783997409,CSE,49,12/31/2003,hand_cash,010
-20254203027,Omor hawlader,Male,omorhawlader.dev@gmail.com,01833043368,CSE,49,3/26/2005,hand_cash,015
-20254203084,Md.Moin Islam ,Male,moin.islam1019@gmail.com,01792894366,CSE,49,4/16/2003,hand_cash,024
-20254203026,Md MosharopHossain Hossain Shafi,Male,shafimunshi111@gmail.com,01300100564,CSE,49,4/12/2004,hand_cash,019
-20254203039,Tanusa Mahmud Oishy ,Female,tanusaoishy@gamil.vom,01799636793,CSE,49,1/21/2003,hand_cash,O21
-20254203121,Musfiqur Rahman,Male,mdragonborn007@gmail.com,01558258477,CSE,49,8/29/2003,hand_cash,026
-20254203099,Ashraful islam,Male,nahidislam45190@gmail.com,01730257453,CSE,49,11/11/2004,hand_cash,034
-20254203124,MD.Uzzol hossain,Male,uzzolhossain122@gmail.com,01788254006,CSE,49,11/15/2004,hand_cash,hand_cash
-20254203093,MD. Fahim,Male,fahimp.dev@gmail.com,01580314857,CSE,49,8/1/2025,hand_cash,030
-20254203086,Mohsin uddin thakur,Male,mohsinuddinthakur@gmail.com,01613061011,CSE,49,7/18/2003,hand_cash,038
-20254203097,G.M Entisar Hoque,Male,rentisar@gmail.com,01878587776,CSE,49,1/26/2005,hand_cash,037
-20254203092,Rakibul Islam,Male,rakib925512@gmail.com,01834541101,CSE,49,12/5/2000,hand_cash,033
-20254203089,Musfiqur Rahman Polas,Male,niloyhasan555666@gmail.com,01868349530,CSE,49,8/1/2004,hand_cash,039
-20254203038,Rajib datta,Male,freelancerrajib2004@gmail.com,01748663147,CSE,49,8/11/2004,hand_cash,041
-20254203020,Rahat,Male,rahatfps@gmail.com,01780333990,CSE,49,10/20/2003,hand_cash,016
-20254203117,Manuel Tudu,Male,manueltudu748@gmail.com,01777123446,CSE,49,10/10/1999,hand_cash,027
-20254203058,Lotifur Rahman,Male,lotifurrohaman93@gmail.com,01719488953,CSE,49,8/1/2004,hand_cash,047
-20254203064,Shihab Mahamud,Male,mt.shihab26@gmail.com,01758776344,CSE,49,5/7/2005,hand_cash,046
-20254203100,Md.Rezaul Karim ,Male,md.rezaulkarim0075@gmail.com,01571314160,CSE,49,1/5/2002,hand_cash,023
-20254203035,Safaet hosen maruf ,Male,safaethosenmaruf@gmail.com,01885719115,CSE,49,10/2/2003,hand_cash,044
-20254203088,Abdul karim polash ,Male,abdulkarimpolash047@gmail.com,01954149907,CSE,49,2/1/2001,hand_cash,149
-20254203113,Touhid Ahmed Shohag,Male,touhidahmed2569@gmail.com,01613131666,CSE,49,1/1/2005,hand_cash,079
-20254203032,Most. Mahabuba khanam marry,Female,mahabubakhanammarry@gmail.com,01744451845,CSE,49,6/18/2025,hand_cash,111
+20254203061,Tanvir Hossain,Male,imtanvir70@gamil.com,01601973671,CSE,49-DH,4/13/2001,hand_cash,014
+20254203054,Mijanur Rhaman Sinha,Male,mijanurrahman7409@gmail.com,01783997409,CSE,49-DH,12/31/2003,hand_cash,010
+20254203027,Omor hawlader,Male,omorhawlader.dev@gmail.com,01833043368,CSE,49-DH,3/26/2005,hand_cash,015
+20254203084,Md.Moin Islam ,Male,moin.islam1019@gmail.com,01792894366,CSE,49-DH,4/16/2003,hand_cash,024
+20254203026,Md MosharopHossain Hossain Shafi,Male,shafimunshi111@gmail.com,01300100564,CSE,49-DH,4/12/2004,hand_cash,019
+20254203039,Tanusa Mahmud Oishy ,Female,tanusaoishy@gamil.vom,01799636793,CSE,49-DH,1/21/2003,hand_cash,O21
+20254203121,Musfiqur Rahman,Male,mdragonborn007@gmail.com,01558258477,CSE,49-DH,8/29/2003,hand_cash,026
+20254203099,Ashraful islam,Male,nahidislam45190@gmail.com,01730257453,CSE,49-DH,11/11/2004,hand_cash,034
+20254203124,MD.Uzzol hossain,Male,uzzolhossain122@gmail.com,01788254006,CSE,49-DH,11/15/2004,hand_cash,hand_cash
+20254203093,MD. Fahim,Male,fahimp.dev@gmail.com,01580314857,CSE,49-DH,8/1/2025,hand_cash,030
+20254203086,Mohsin uddin thakur,Male,mohsinuddinthakur@gmail.com,01613061011,CSE,49-DH,7/18/2003,hand_cash,038
+20254203097,G.M Entisar Hoque,Male,rentisar@gmail.com,01878587776,CSE,49-DH,1/26/2005,hand_cash,037
+20254203092,Rakibul Islam,Male,rakib925512@gmail.com,01834541101,CSE,49-DH,12/5/2000,hand_cash,033
+20254203089,Musfiqur Rahman Polas,Male,niloyhasan555666@gmail.com,01868349530,CSE,49-DH,8/1/2004,hand_cash,039
+20254203038,Rajib datta,Male,freelancerrajib2004@gmail.com,01748663147,CSE,49-DH,8/11/2004,hand_cash,041
+20254203020,Rahat,Male,rahatfps@gmail.com,01780333990,CSE,49-DH,10/20/2003,hand_cash,016
+20254203117,Manuel Tudu,Male,manueltudu748@gmail.com,01777123446,CSE,49-DH,10/10/1999,hand_cash,027
+20254203058,Lotifur Rahman,Male,lotifurrohaman93@gmail.com,01719488953,CSE,49-DH,8/1/2004,hand_cash,047
+20254203064,Shihab Mahamud,Male,mt.shihab26@gmail.com,01758776344,CSE,49-DH,5/7/2005,hand_cash,046
+20254203100,Md.Rezaul Karim ,Male,md.rezaulkarim0075@gmail.com,01571314160,CSE,49-DH,1/5/2002,hand_cash,023
+20254203035,Safaet hosen maruf ,Male,safaethosenmaruf@gmail.com,01885719115,CSE,49-DH,10/2/2003,hand_cash,044
+20254203088,Abdul karim polash ,Male,abdulkarimpolash047@gmail.com,01954149907,CSE,49-DH,2/1/2001,hand_cash,149
+20254203113,Touhid Ahmed Shohag,Male,touhidahmed2569@gmail.com,01613131666,CSE,49-DH,1/1/2005,hand_cash,079
+20254203032,Most. Mahabuba khanam marry,Female,mahabubakhanammarry@gmail.com,01744451845,CSE,49-DH,6/18/2025,hand_cash,111
 22234103007,Riyadul Islam,,theriyadh75@gmail.com,01721383576,CSE,50,,,
 22234103008,Istiak Ahmed Saad,,istik2020@gmail.com,01950382372,CSE,50,,,
 22234103015,Md. Mahfizur Rahaman Anik,,rahamananik200@gmail.com,01628999131,CSE,50,,,
@@ -1338,11 +1338,6 @@ StudentID,Name,Gender,Email,Mobile,Department,Intake,Birthday,PaymentMethod,Tran
 20254103008,Istiak Ahamed,Male,ahamedistiak620@gmail.com,01316012359,CSE,56,8/28/2004,hand_cash,007
 20254103036,Fahmida taizin,Female,ftaizin@gmail.com,01707214880,CSE,56,11/11/2005,hand_cash,011
 20254103037,Anika,Female,anikaarishaonik@gmail.com,01924577600,CSE,56,6/3/2004,hand_cash,012
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 21221101234,Md. Rakibul islam Rakib,,mdrakibulisla439@gmail.com,01647324879,BBA,56,,,
 22231102074,Tayeba Rahman,,tayeba092001@gmail.com,01301572277,English,56,,,
 22231102091,Rownak Jahan Sumona,,rownakjahan2002@gmail.com,01736152251,English,56,,,
